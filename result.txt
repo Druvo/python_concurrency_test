@@ -1,0 +1,61 @@
+C:\Users\Tiger-Park\Desktop>python py2.py
+start func2
+2020-08-21 02:32:14.800524
+start func1
+2020-08-21 02:32:14.804523
+response:----->>>> b'{"message":"Bill Already Paid","status":406}'
+2020-08-21 02:32:15.020546
+end func1
+response:----->>>> b'{"bill_no":"100509101113395667","account_no":"01990581913","amount":500,"status":200}'
+2020-08-21 02:32:15.521069
+end func2
+
+C:\Users\Tiger-Park\Desktop>python py2.py
+start func1
+2020-08-21 02:32:23.093983
+start func2
+2020-08-21 02:32:23.093983
+response:----->>>> b'{"message":"Bill Already Paid","status":406}'
+2020-08-21 02:32:23.494690
+end func2
+response:----->>>> b'{"bill_no":"100509101113395667","account_no":"01990581913","amount":500,"status":200}'
+2020-08-21 02:32:23.890698
+end func1
+
+C:\Users\Tiger-Park\Desktop>python py2.py
+start func2
+2020-08-21 02:32:32.197983
+start func1
+2020-08-21 02:32:32.205982
+response:----->>>> b'{"bill_no":"100509101113395667","account_no":"01990581913","amount":500,"status":200}'
+response:----->>>> b'{"bill_no":"100509101113395667","account_no":"01990581913","amount":500,"status":200}'
+2020-08-21 02:32:32.950569
+2020-08-21 02:32:32.950569
+end func2
+end func1
+
+C:\Users\Tiger-Park\Desktop>python py2.py
+start func2
+2020-08-21 02:32:50.733982
+start func1
+2020-08-21 02:32:50.733982
+response:----->>>> b'{"bill_no":"100509101113395667","account_no":"01990581913","amount":500,"status":200}'
+2020-08-21 02:32:51.650437
+end func1
+response:----->>>> b'{"bill_no":"100509101113395667","account_no":"01990581913","amount":500,"status":200}'
+2020-08-21 02:32:51.661981
+end func2
+
+C:\Users\Tiger-Park\Desktop>python py2.py
+start func1
+2020-08-21 02:33:14.837982
+start func2
+2020-08-21 02:33:14.841996
+response:----->>>> b'{"bill_no":"100509101113395667","account_no":"01990581913","amount":500,"status":200}'
+2020-08-21 02:33:15.685983
+end func1
+response:----->>>> b'{"bill_no":"100509101113395667","account_no":"01990581913","amount":500,"status":200}'
+2020-08-21 02:33:15.689992
+end func2
+
+C:\Users\Tiger-Park\Desktop>
